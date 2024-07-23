@@ -43,4 +43,5 @@ Ative a venv no Windows:
 
 ## Rodado projeto
 
+[![Assista ao vídeo no YouTube](https://img.youtube.com/vi/zbQdW0BX1w8/0.jpg)](https://youtu.be/zbQdW0BX1w8?autoplay=1)
 https://youtu.be/zbQdW0BX1w8
