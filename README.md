@@ -40,3 +40,7 @@ Ative a venv no Windows:
 ### 3. Instalar as Dependências
 
 ``` pip install -r requirements.txt ```
+
+## Rodado projeto
+
+<iframe width="560" height="315" src="[https://www.youtube.com/embed/dQw4w9WgXcQ](https://youtu.be/zbQdW0BX1w8)" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
