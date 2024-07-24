@@ -45,3 +45,12 @@ Ative a venv no Windows:
 
 [![Assista ao vídeo no YouTube](https://img.youtube.com/vi/zbQdW0BX1w8/0.jpg)](https://youtu.be/zbQdW0BX1w8?autoplay=1)
 
+
+## Melhorias
+
+Entre na branch melhorias:
+<ol>
+    <li>Usando o navegador do chrome por ser mais atualizado</li>
+    <li>Usando o apply no lugar do iterrows para melhorar performace</li>
+    <li>Trocando Css por Xpath na busca para ter mais precisão</li>
+</ol>
